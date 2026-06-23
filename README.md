@@ -28,3 +28,4 @@ The project follows a structured troubleshooting methodology commonly used in de
 - [Remediation](documentation/05-Remediation.md)
 - [Validation](documentation/06-Validation.md)
 - [Lessons Learned](documentation/07-Lessons-Learned.md)
+- [Investigation Timeline](documentation/08-Investigation-Timeline.md)
